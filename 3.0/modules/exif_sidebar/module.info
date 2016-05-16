@@ -1,0 +1,7 @@
+name = "Exif for sidebar"
+description = "Show the EXIF data from the image on the sidebar of photo pages."
+version = 1
+author_name = "Floridave"
+author_url = "http://codex.gallery2.org/Gallery:Team"
+info_url = "http://codex.gallery2.org/Gallery3:Modules:exif_sidebar"
+discuss_url = "http://gallery.menalto.com/forum_module_exif_sidebar"
